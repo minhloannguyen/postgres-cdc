@@ -1,0 +1,12 @@
+jobmanager.rpc.address: jobmanager
+taskmanager.numberOfTaskSlots: 2
+blob.server.port: 6124
+jobmanager.rpc.port: 6123
+taskmanager.rpc.port: 6122
+queryable-state.proxy.ports: 6125
+jobmanager.memory.process.size: 1600m
+taskmanager.memory.process.size: 2g
+parallelism.default: 2
+query.server.port: 6125
+web.upload.dir: /opt/flink/usrlib
+rest.connection-timeout: 30000
