@@ -1,0 +1,1 @@
+{"lineage":[{"phase":"ingestion","id":"d24b8c60-c03c-11ec-b362-11b18ae4d379","timestamp":1650412800038,"target":"prd.ingestion.app-log.event","time":"04/20/2022, 07:00:00"}],"content_hash":"6iqX1S2BVLq3C0iZanjRhg=="}
